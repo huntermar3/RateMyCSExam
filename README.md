@@ -9,3 +9,4 @@ Currently, two official plugins are available:
 # RateMyCSExam
 # RateMyCSExam
 # RateMyCSExam
+# RateMyExam
